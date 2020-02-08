@@ -13,6 +13,8 @@ This PM walks you through the steps to create a user flow and wireframes for the
 3. Application wireframes
 4. Wireflow diagram
 
+![Image of wireframing](images/wireflow.jpg "Wireframing with User Flows")
+
 ## Overview 
 
 You will synthesize what you know about your client's work by creating a “user flow” diagram that shows how a user will move through your application. The tasks you choose for the user should be based on your VSM. 
@@ -21,7 +23,7 @@ Your interface should collect or provide any necessary data to support the tasks
 
 Your team should get feedback on your wireframes from your client to make sure you’re on the right track. This is an iterative process-- you will not get everything right at each step the first time you do it. These steps help you and your client to work together to figure out what the best application might be.  
 
-Following this milestone, you will create a paper prototype of your application. (This will be done in class as T04). The paper prototype will be used by your team to guide the code development of your interface.
+Following this milestone, you will create a paper prototype of your application. (This will be done in class as T03). The paper prototype will be used by your team to guide the code development of your interface.
 
 
 ## Step 0: E-R Diagrams & Pre-requisites
@@ -34,7 +36,8 @@ Ensure you have all the pre-requisite information needed to begin.
 - detailed value-stream maps
 - any notes from your site visit and conversations with your client
 
-:exclamation: **TODO: Submit your complete E-R diagram that reflects your client’s feedback on earlier milestones.
+:exclamation: **TODO: Submit your complete E-R diagram**  (should reflect your client’s feedback on earlier milestones.)
+
 
 ## Step 1: Create user flows
 
@@ -43,20 +46,29 @@ To create a user flow, you combine your data model and your value stream map int
 Here’s a good example of one task for a photo album app: “View all photos”
 [Source: UXdesign.cc (Follow the link for more in-depth description](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
 
-:exclamation: Brainstorm the possible data-driven goals your client has, based on your VSM and your conversations with them. This should include updating the data as well as viewing subsets of data, visualizations or summaries. **TODO: List out at least 5 meaningful user goals.
+:exclamation: Brainstorm the possible data-driven goals your client has, based on your VSM and your conversations with them. This should include updating the data as well as viewing subsets of data, visualizations or summaries. 
 
-:exclamation: For each goal, write out the sequence of steps needed to achieve this goal. Be sure to note any dependencies or decision points for the user, since this will be important for your interface. **TODO: Post your timelines and/or flow diagrams here.
+	**TODO: List out at least 5 meaningful user goals.**
+
+:exclamation: For each goal, write out the sequence of steps needed to achieve this goal. Be sure to note any dependencies or decision points for the user, since this will be important for your interface. 
+
+	**TODO: List out your sequences as timelines and/or flow diagrams here.**
 
 ## STEP 2: Create wireframes of your application
 
 In pencil, draw the user interfaces that will allow a user to complete the tasks you laid out above. 
-If you are new to UI design, review this [helpful 5 minute wireframing "how to” video ](https://www.youtube.com/watch?v=PmmQjLqJQlY)
+If you are new to UI design, review [this helpful 5 minute wireframing "how to” video ](https://www.youtube.com/watch?v=PmmQjLqJQlY)
 
-It might be helpful to start by drawing the interfaces needed for just one task flow. Keep each page relatively simple. Create or extend the pages until you have drawn out the complete path for the user to accomplish this goal. Do this for each of the user flows you outlined in the previous step.
+You can start by drawing the interfaces needed for just one task flow. Keep each page relatively simple. Create or extend the pages until you have drawn out the complete path for the user to accomplish this goal. Do this for each of the user flows you outlined in the previous step.
 
 Once you have a finished set of wireframes, ask members of another group to view your pages and tell you what each one is. Note any confusion or questions and revise as needed. You will use your wireframe images in STEP 3.
 
-**FAQ:** 
+:exclamation: 
+
+**TODO: Post images of the wireframe sketches for your application**
+
+
+**Wireframing FAQ:** 
 1. Level of Detail? The wireframes should look like a detailed sketch.There should be enough text or iconography to be legible, but your goal is to figure out the basic layout of the application, not the final design.
 
 2. I don't know where to start? Do a google image search for "UI wireframing" for some inspiration. You can also browse UI portfolios on sites like Pinterest, Instagram and Dribbbly
@@ -67,9 +79,8 @@ Once you have a finished set of wireframes, ask members of another group to view
 
 5. Can we use digital wireframing tools? For this step, your team should collaboratively sketch your wireframes on paper. If your team wants to use a digital tool for STEP 3, feel free. 
 
-5. What if the client wants a mobile or tablet application? If you envision this application mostly being used on a mobile phone or a tablet, you should create wireframes for that screen size. Since we are creating a browser based application for our database, it can be sized to fit whatever device your user prefers.
+6. What if the client wants a mobile or tablet application? If you envision this application mostly being used on a mobile phone or a tablet, you should create wireframes for that screen size. Since we are creating a browser based application for our database, it can be sized to fit whatever device your user prefers.
 
-:exclamation: **TODO: Post images of the wireframes for your application
 
 ## Step 3: Create a wireflow
 
@@ -77,7 +88,7 @@ A wireflow combines your user flows and your wireframes into a flowchart. These 
 
 Read this brief article with rationale and examples of wireflows: https://www.nngroup.com/articles/wireflows/
 
-:exclamation:  **TODO: Add the wireflow diagrams that you will share with your client here. Each user goal described above should be reflected.
+:exclamation:  **TODO: Add the wireflow diagrams that you will share with your client here.** Each user goal described above should be reflected.
 
 
 
