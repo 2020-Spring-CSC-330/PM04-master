@@ -46,7 +46,7 @@ To create a user flow, you combine your data model and your value stream map int
 
 [Read this brief article for an overview and examples of how to construct a user flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
 
-![Image user flow of a customer ordering a product.](images/user-flow-beginning.png)
+![Example user flow of a customer ordering a product.](images/user-flow-beginning.png)
 
 :exclamation: Brainstorm the possible data-driven goals your client has, based on your VSM and your conversations with them. This should include updating the data as well as viewing subsets of data, visualizations or summaries.
 
