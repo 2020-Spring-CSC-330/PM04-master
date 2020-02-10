@@ -4,26 +4,27 @@
 
 Translate what you know about your client’s work, needs, and data into a draft database application, and get feedback from your client on the design and proposed functionality of the application.
 
-## Deliverables
+## Overview & Deliverables
 
 This PM walks you through the steps to create a user flow and wireframes for the database application you will build for your client. If you work hard to get this step right, your next steps of testing and coding up your applications will be much, much easier.
 
+Before you get started, you need a:
+
 1. E-R diagram (verified by client)
-2. User flow diagram
-3. Application wireframes
-4. Wireflow diagram
 
-![Image of wireframing](images/wireflow.jpg "Wireframing with User Flows")
+You will synthesize what you know about your client's work by:
 
-## Overview
+2. Creating “user flow” diagrams that show how a user will move through your application. The tasks you choose for the user should be based on your VSM. 
 
-You will synthesize what you know about your client's work by creating a “user flow” diagram that shows how a user will move through your application. The tasks you choose for the user should be based on your VSM.
+3. Sketching wireframes of the application's proposed interface based on the flows that you’ve decided. Your interface should also provide ways to collect or provide any necessary data to support the user's tasks.
 
-Your interface should collect or provide any necessary data to support the tasks. You will create a wireframe of the application interface based on the flow that you’ve decided.
+4. Assembling a wireflow diagram illustrating how a user accomplishes a task using your interface. Your team should get feedback on your wireframes from your client to make sure you’re on the right track. 
 
-Your team should get feedback on your wireframes from your client to make sure you’re on the right track. This is an iterative process-- you will not get everything right at each step the first time you do it. These steps help you and your client to work together to figure out what the best application might be.  
+This is an iterative process-- you will not get everything right at each step the first time you do it. These steps help you and your client to work together to figure out what the best application might be.  
 
 Following this milestone, you will create a paper prototype of your application. (This will be done in class as T03). The paper prototype will be used by your team to guide the code development of your interface.
+
+![Image of wireframing](images/wireflow.jpg "Wireframing with User Flows")
 
 
 ## Step 0: E-R Diagrams & Prerequisites
