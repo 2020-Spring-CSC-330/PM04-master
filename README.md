@@ -14,11 +14,11 @@ Before you get started, you need a:
 
 You will synthesize what you know about your client's work by:
 
-2. Creating “user flow” diagrams that show how a user will move through your application. The tasks you choose for the user should be based on your VSM. 
+2. Creating “user flow” diagrams that show how a user will move through your application. The tasks you choose for the user should be based on your VSM.
 
 3. Sketching wireframes of the application's proposed interface based on the flows that you’ve decided. Your interface should also provide ways to collect or provide any necessary data to support the user's tasks.
 
-4. Assembling a wireflow diagram illustrating how a user accomplishes a task using your interface. Your team should get feedback on your wireframes from your client to make sure you’re on the right track. 
+4. Assembling a wireflow diagram illustrating how a user accomplishes a task using your interface. Your team should get feedback on your wireframes from your client to make sure you’re on the right track.
 
 This is an iterative process-- you will not get everything right at each step the first time you do it. These steps help you and your client to work together to figure out what the best application might be.  
 
@@ -44,9 +44,9 @@ Ensure you have all the prerequisite information needed to begin:
 
 To create a user flow, you combine your data model and your value stream map into a timeline of user interactions. Start by defining a meaningful goal that your client would wish to accomplish using your application (i.e. Create a new A; Find information about Entity B; Discover C based on X, Y, Z). Then outline every step that a user would have to take to achieve this goal. Be as specific as possible. Diagrams are quite useful.
 
-[Read this brief article for an overview and examples of how to construct a user flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+[Read this brief article for an overview and examples of how to construct a user flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/).
 
-(Figure: Example user flow of a customer ordering a product.)
+(Figure: Example user flow of a customer ordering a product)
 
 ![Image of user flow](images/user-flow-beginning.png)
 
@@ -70,7 +70,7 @@ Once you have a finished set of wireframes, ask members of another group to view
 
 
 **Wireframing FAQ:**
-1. *Level of Detail?* The wireframes should look like a detailed sketch.There should be enough text or iconography to be legible, but your goal is to figure out the basic layout of the application, not the final design.
+1. *Level of Detail?* The wireframes should look like a detailed sketch. There should be enough text or iconography to be legible, but your goal is to figure out the basic layout of the application, not the final design.
 
 2. *I don't know where to start?* Do a google image search for "UI wireframing" for some inspiration. You can also browse UI portfolios on sites like Pinterest, Instagram and Dribbbly
 
