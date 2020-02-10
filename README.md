@@ -44,8 +44,9 @@ Ensure you have all the prerequisite information needed to begin:
 
 To create a user flow, you combine your data model and your value stream map into a timeline of user interactions. Start by defining a meaningful goal that your client would wish to accomplish using your application (i.e. Create a new A; Find information about Entity B; Discover C based on X, Y, Z). Then outline every step that a user would have to take to achieve this goal. Be as specific as possible. Diagrams are quite useful.
 
-Here’s a good example of one task for a photo album app: “View all photos”
-[Source: UXdesign.cc (Follow the link for more in-depth description](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
+[Read this brief article for an overview and examples of how to construct a user flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+
+![Image user flow of a customer ordering a product.](images/user-flow-beginning.png)
 
 :exclamation: Brainstorm the possible data-driven goals your client has, based on your VSM and your conversations with them. This should include updating the data as well as viewing subsets of data, visualizations or summaries.
 
